@@ -1,5 +1,6 @@
 ## Welcome to HarmoniLight
-A chance to show that Computing Students **ARE COOL**!!!
+### A chance to show that Computing Students **ARE COOL**!!!
+![Static Badge](https://img.shields.io/badge/License-GNU%20GPL%20V3-%23121212?style=for-the-badge&logo=gnu&logoColor=%23A42E2B&logoSize=auto&labelColor=white)
 ----
 
 ### Docs
